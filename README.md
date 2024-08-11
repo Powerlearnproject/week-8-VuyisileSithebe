@@ -1,4 +1,7 @@
 # Solving an SDG Problem with Data (Choose Your SDG)
+Part 1: SDG Selection and Problem Definition
+SDG Selection:
+ Affordable and Clean Energy
 
 Part 2: Database Design
 ERD (Entity-Relationship Diagram):
